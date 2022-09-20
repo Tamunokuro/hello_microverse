@@ -25,7 +25,7 @@
 ## Show your support
 **Give a ⭐️ if you like this project!**
 
-# Acknowldgement: 
+## Acknowledgement
 **Thank you Microverse for the opportunity.**
 
 
