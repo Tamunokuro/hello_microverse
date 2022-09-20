@@ -5,12 +5,12 @@ linters,
 github pull requests,
 and my ability to submit a project for code review
 
-Author:
+# Author:
 Joshua Blue-Jack
 linkedin: Joshua Blue-Jack
 github: https://github.com/Tamunokuro
 
-Acknowldgement: 
+# Acknowldgement: 
 AbhishekkM05
 github: https://github.com/AbhishekkM05
 
