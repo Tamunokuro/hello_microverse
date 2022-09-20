@@ -6,7 +6,7 @@
 - Linters
 
 # Getting Started 
-** Clone the repository using git clone (https://github.com/Tamunokuro)**
+**Clone the repository using git clone (https://github.com/Tamunokuro)**
 
 ## Prerequisites
 - Code Editor
